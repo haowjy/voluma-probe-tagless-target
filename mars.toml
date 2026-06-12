@@ -1,0 +1,4 @@
+[package]
+name = "voluma-probe-target"
+version = "0.1.0"
+description = "Throwaway tagless mars package."
